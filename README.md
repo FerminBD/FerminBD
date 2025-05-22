@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **Darkroom**
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **React, NextJs
 
 - 👯 I’m looking to collaborate on **Front End proyects**
-
-- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **fermin.fernandez.bridda@gmail.com**
 
