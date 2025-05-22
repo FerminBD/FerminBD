@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferminbd&label=Profile%20views&color=0e75b6&style=flat" alt="ferminbd" /> </p>
 
-- 🔭 I’m currently working on **Darkroom**
-
-- 🌱 I’m currently learning **React, NextJs
-
-- 👯 I’m looking to collaborate on **Front End proyects**
+- 🔭 I’m currently working on **Darkroom Engineering** as a front end developer
 
 - 📫 How to reach me **fermin.fernandez.bridda@gmail.com**
 
